@@ -51,3 +51,10 @@
 | testing            | 测试                 |
 | training           | 训练                 |
 | wrapper            | 封装器               |
+
+
+## 剩余翻译页面
+
+1. [Keras Convolutional Layers](https://github.com/keras-team/keras-docs-zh/blob/master/sources/layers/convolutional.md)
+
+Welcome to contribute!!!
